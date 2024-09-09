@@ -1,0 +1,25 @@
+body{
+    background: url(coin.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+div{
+    font-size: 5em;
+    color: white;
+}
+button{
+    width:100px;
+    height: 100px;
+    border-radius: 360px;
+    background-color:rgb(255, 213, 0);
+}
+button:active{
+    width:90px;
+    height: 90px;
+    border-radius: 360px;
+    background-color:rgb(231, 194, 5);
+
+}
